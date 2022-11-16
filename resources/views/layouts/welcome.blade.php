@@ -21,6 +21,9 @@ else{
     $output = "it is not a palindrome";
 }
 
+
+echo abs(-2);
+
 ?>
 
 
